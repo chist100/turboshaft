@@ -1,0 +1,4 @@
+
+Warnings: 
+
+File: D:\Turboshaft\vvod.matlab\visor_transit_fnc.m, line : 7, column : 38. The expression 'ligth(visor_slot > abs(Y_coord)) = NaN' was not executed during simulation. Consider using a more thorough testbench.
